@@ -30,14 +30,14 @@ main > p {
   color: #222;
 }
 
-main p: nth-child (2) {
+main p:nth-child(2) {
   font-family: PT Serif;
   font-weight: bold;
   font-size: 1.125rem;
   color: #222;
 }
 
-main p: nth-child (3,4) {
+main p:nth-child(3,4) {
   font-family: PT Serif;
   font-size: 1.125rem;
   color: #222;
@@ -70,7 +70,7 @@ dl + dt {
   color: #222;
 }
 
-dl dt: nth-child (2,3,4,5){
+dl dt:nth-child(2,3,4,5) {
 font-family: PT Serif;
 font-size: 1.125rem;
 color: #222;
@@ -88,6 +88,6 @@ aside {
   color: #222;
 }
 
-small a: hover {
+small a:hover {
   color: #8f2440
 }
