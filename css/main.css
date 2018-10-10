@@ -56,3 +56,16 @@ cite {
   font-style: italic;
   color: #222;
 }
+
+h2 ol li {
+font-family: PT serif;
+font-size: 1.125rem;
+color: #222;
+}
+
+dl + dt {
+  font-family: PT serif;
+  font-style: italic;
+  font-size: 1.125rem;
+  color: #222;
+}
