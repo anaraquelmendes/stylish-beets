@@ -5,13 +5,13 @@ html {
 
 h1, h2 {
   color: #3f1622;
-  font-family: PT Sans;
+  font-family: PT+Sans;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 nav ol li {
-  font-family: PT Sans;
+  font-family: PT+Sans;
   font-size: 1.125rem;
   font-weight: bold;
   color: #3f1622
@@ -23,7 +23,7 @@ nav ol li {
 }
 
 main > p {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-style: italic;
   font-size: 1.125rem;
   font-weight: normal;
@@ -31,59 +31,59 @@ main > p {
 }
 
 main p: nth-child (2) {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-weight: bold;
   font-size: 1.125rem;
   color: #222;
 }
 
 main p: nth-child (3,4) {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-size: 1.125rem;
   color: #222;
 }
 
 blockquote {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-size: 1.5rem;
   font-style: italic;
   color: #222;
 }
 
 cite {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-size: 0.8rem;
   font-style: italic;
   color: #222;
 }
 
 h2 ol li {
-font-family: PT serif;
+font-family: PT+serif;
 font-size: 1.125rem;
 color: #222;
 }
 
 dl + dt {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-style: italic;
   font-size: 1.125rem;
   color: #222;
 }
 
 dl dt: nth-child (2,3,4,5){
-font-family: PT serif;
+font-family: PT+serif;
 font-size: 1.125rem;
 color: #222;
 }
 
 ul li {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-size: 0.8rem;
   color: #222;
 }
 
 aside {
-  font-family: PT serif;
+  font-family: PT+serif;
   font-size: 0.8rem;
   color: #222;
 }
