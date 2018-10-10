@@ -76,7 +76,25 @@ dl + dt {
   color: #222;
 }
 
-dl dt:nth-child(2,3,4,5) {
+dl dt:nth-child(2) {
+font-family: PT Serif;
+font-size: 1.125rem;
+color: #222;
+}
+
+dl dt:nth-child(3) {
+font-family: PT Serif;
+font-size: 1.125rem;
+color: #222;
+}
+
+dl dt:nth-child(4) {
+font-family: PT Serif;
+font-size: 1.125rem;
+color: #222;
+}
+
+dl dt:nth-child(5) {
 font-family: PT Serif;
 font-size: 1.125rem;
 color: #222;
