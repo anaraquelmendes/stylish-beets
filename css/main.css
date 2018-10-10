@@ -16,3 +16,23 @@ nav ol li {
   font-weight: bold;
   color: #3f1622
 }
+
+nav ol li {
+  a: hover {
+    color: #3f1622;
+}
+
+main > p {
+  font-family: PT serif;
+  font-style: italic;
+  font-size: 1.125rem;
+  font-weight: normal;
+  color: #222;
+}
+
+main p: nth-child (2) {
+  font-family: PT serif;
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #222;
+}
