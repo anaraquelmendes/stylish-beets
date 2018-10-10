@@ -75,3 +75,15 @@ font-family: PT serif;
 font-size: 1.125rem;
 color: #222;
 }
+
+ul li {
+  font-family: PT serif;
+  font-size: 0.8rem;
+  color: #222;
+}
+
+aside {
+  font-family: PT serif;
+  font-size: 0.8rem;
+  color: #222;
+}
