@@ -1,8 +1,16 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
+
+.sans {
+  font-family: Pt Sans;
 }
 
+.serif {
+  font-family: Pt serif;
+}
+
+}
 h1, h2 {
   color: #3f1622;
   font-family: PT Sans;
