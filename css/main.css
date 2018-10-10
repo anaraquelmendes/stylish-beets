@@ -1,0 +1,18 @@
+html {
+  background-color: #c9b5ab;
+  line-height: 1.5;
+}
+
+h1, h2 {
+  color: #3f1622;
+  font-family: PT Sans;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav ol li {
+  font-family: PT Sans;
+  font-size: 1.125rem;
+  font-weight: bold;
+  color: #3f1622
+}
