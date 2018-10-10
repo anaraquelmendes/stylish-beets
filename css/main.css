@@ -37,7 +37,13 @@ main p:nth-child(2) {
   color: #222;
 }
 
-main p:nth-child(3,4) {
+main p:nth-child(3) {
+  font-family: PT Serif;
+  font-size: 1.125rem;
+  color: #222;
+}
+
+main p:nth-child(4) {
   font-family: PT Serif;
   font-size: 1.125rem;
   color: #222;
