@@ -87,3 +87,7 @@ aside {
   font-size: 0.8rem;
   color: #222;
 }
+
+small a: hover {
+  color: #8f2440
+}
