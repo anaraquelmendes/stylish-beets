@@ -124,10 +124,10 @@ small a:hover {
   color: #8f2440
 }
 
-.varieties {
+h2 ol li {
   list-style-type:lower-greek;
 }
 
-ul h2 {
-  list-style-type: circle;
+h2 ul li {
+  list-style-type: lower-greek;
 }
