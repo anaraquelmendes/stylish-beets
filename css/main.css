@@ -127,3 +127,7 @@ small a:hover {
 .varieties {
   list-style-type:lower-greek;
 }
+
+ul h2 {
+  list-style-type:circle;
+}
