@@ -123,3 +123,7 @@ aside {
 small a:hover {
   color: #8f2440
 }
+
+.varieties {
+  list-style-type:lower-greek;
+}
