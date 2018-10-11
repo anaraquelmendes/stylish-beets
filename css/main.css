@@ -30,6 +30,26 @@ nav ol li {
     color: #3f1622;
 }
 
+nav ol li {
+
+a: link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+</style>
+}
+
 main > p {
   font-family: PT Serif;
   font-style: italic;
