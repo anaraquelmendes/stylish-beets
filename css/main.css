@@ -47,7 +47,9 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
-</style>
+
+a:hover {
+    color: #8f2440
 }
 
 main > p {
