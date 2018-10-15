@@ -55,8 +55,7 @@ a:active {
 }
 
 main > p {
-  font-style: italic;
-  font-size: 1.125rem;
+  font-size: .8rem;
   font-weight: normal;
   color: #222;
 }
@@ -141,4 +140,12 @@ small a:hover {
 
 h2 ul li {
   list-style-type: lower-greek;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+figcaption {
+  font-style: italic;
 }
