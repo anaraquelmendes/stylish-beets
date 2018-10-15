@@ -1,68 +1,60 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
+  font-family: "PT Sans", sans-serif;
+  font-family: "PT Serif", serif;
+}
+
+img {
+  width: 100%;
 }
 
 .menu {
-    color: #8f2440;
+  color: #8f2440;
 }
 
 .menu:hover {
-    color: #3f1622;
+  color: #3f1622;
 }
 
-.sans {
-  font-family: Pt Sans;
-}
-
-.serif {
-  font-family: Pt serif;
-}
-
-}
 h1, h2 {
   color: #3f1622;
-  font-family: PT Sans;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 nav ol li {
-  font-family: PT Sans;
   font-size: 1.125rem;
   font-weight: bold;
-  color: #3f1622
+  color: #3f1622;
 }
 
-nav ol li {
-  a: hover {
-    color: #3f1622;
+nav ol li a:hover {
+  color: #3f1622;
 }
 
-nav ol li {
-
-a: link {
-    text-decoration: none;
+nav ol li a {
+  text-decoration: none;
 }
 
-a:visited {
-    text-decoration: none;
+nav li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+  color: #8f2440;
 }
 
 a:active {
-    text-decoration: underline;
-}
-
-a:hover {
-    color: #8f2440
+  text-decoration: underline;
 }
 
 main > p {
-  font-family: PT Serif;
   font-style: italic;
   font-size: 1.125rem;
   font-weight: normal;
@@ -70,101 +62,83 @@ main > p {
 }
 
 main p:nth-child(2) {
-  font-family: PT Serif;
   font-weight: bold;
   font-size: 1.125rem;
   color: #222;
 }
 
 main p:nth-child(3) {
-  font-family: PT Serif;
   font-size: 1.125rem;
   color: #222;
 }
 
 main p:nth-child(4) {
-  font-family: PT Serif;
   font-size: 1.125rem;
   color: #222;
 }
 
 blockquote {
-  font-family: PT Serif;
   font-size: 1.5rem;
   font-style: italic;
   color: #222;
 }
 
 cite {
-  font-family: PT Serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
   color: #222;
 }
 
 h2 ol li {
-font-family: PT Serif;
-font-size: 1.125rem;
-color: #222;
+  font-size: 1.125rem;
+  color: #222;
+  list-style-type: lower-greek;
 }
 
 dl + dt {
-  font-family: PT Serif;
   font-style: italic;
   font-size: 1.125rem;
   color: #222;
 }
 
 dl dt:nth-child(2) {
-font-family: PT Serif;
-font-size: 1.125rem;
-color: #222;
+  font-size: 1.125rem;
+  color: #222;
 }
 
 dl dt:nth-child(3) {
-font-family: PT Serif;
-font-size: 1.125rem;
-color: #222;
+  font-size: 1.125rem;
+  color: #222;
 }
 
 dl dt:nth-child(4) {
-font-family: PT Serif;
-font-size: 1.125rem;
-color: #222;
+  font-size: 1.125rem;
+  color: #222;
 }
 
 dl dt:nth-child(5) {
-font-family: PT Serif;
-font-size: 1.125rem;
-color: #222;
+  font-size: 1.125rem;
+  color: #222;
 }
 
 ul li {
-  font-family: PT Serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
 aside {
-  font-family: PT Serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #222;
 }
 
 small a {
-  color: #3f1622
+  color: #3f1622;
 }
 
 small a:hover {
-  color: #3f1622
-}
-
-h2 ol li {
-  list-style-type:lower-greek;
+  color: #3f1622;
 }
 
 h2 ul li {
   list-style-type: lower-greek;
-
-
 }
